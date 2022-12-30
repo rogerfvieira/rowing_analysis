@@ -1,4 +1,4 @@
 # rowing_analysis
 
 # Architecture
-![Untitled-2022-12-26-1527](https://user-images.githubusercontent.com/88284521/209600115-6177f5ec-62b5-4a11-a700-e0cc5de7b4a3.png)
+![architecture](https://user-images.githubusercontent.com/88284521/210026880-b88a63bc-0dbf-49ae-9d71-656c7d3c6664.png)
