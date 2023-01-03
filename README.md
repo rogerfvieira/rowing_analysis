@@ -1,4 +1,4 @@
-# rowing_analysis
+# ![rowing_analysis](https://github.com/rogerfvieira/rowing_analysis/blob/main/rowing_analysis.ipynb)
 The purpose of this notebook is to create a dashboard of my caloric expidenture for the last 7 days of rowing.
 
 # Architecture
